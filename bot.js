@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`شحال من قرد مسمي راسو بشر .. مالاك .. شيطان .. شونجمون د قناع .`,"http://twitch.tv/Ninja")
+client.user.setGame(`شحال من قرد مسمي راسو بشر مالاك شيطان شونجمون د قناع .`,"http://twitch.tv/Ninja")
 client.user.setStatus("dnd")
 });
 
